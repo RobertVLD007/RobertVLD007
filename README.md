@@ -1,16 +1,30 @@
 # Olá, Robert falando!!
 
-**Email para contato:** [robertvld.business@gmail.com]
+**Email para contato:** robertvld.business@gmail.com
 
-##Especializações:
-~~~Front-End
-HTML
-CSS
-JavaScript
-~~~
-~~~Back-End
-NodeJS
-~~~~
+<!--
+## Especializações:
+<table>
+  <tr>
+    <thead>
+      <th>Área</th>
+      <th colspan="3">Linguagens</th>
+    </thead>
+  </tr>
+  <tr>
+    <td>Front-End</td>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JS</td>
+  </tr>
+  <tr>
+    <td>Back-End</td>
+    <td>PHP</td>
+    <td>SQL</td>
+    <td>NODEjs</td>
+  </tr>
+</table>
+-->
 
 <!--
 - 🔭 I’m currently working on ...
