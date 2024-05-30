@@ -1,10 +1,32 @@
-## Hi there 👋
+# Olá, Robert falando!!
 
+**Email para contato:** robertvld.business@gmail.com
 
-**RobertVLD007/RobertVLD007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
+## Especializações:
+<table>
+  <tr>
+    <thead>
+      <th>Área</th>
+      <th colspan="3">Linguagens</th>
+    </thead>
+  </tr>
+  <tr>
+    <td>Front-End</td>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JS</td>
+  </tr>
+  <tr>
+    <td>Back-End</td>
+    <td>PHP</td>
+    <td>SQL</td>
+    <td>NODEjs</td>
+  </tr>
+</table>
+-->
 
-Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +35,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
