@@ -2,7 +2,6 @@
 
 **Email para contato:** robertvld.dev@gmail.com
 
-<!--
 ## Especializações:
 <table>
   <tr>
@@ -29,7 +28,7 @@
     <td>Hibernate</td>
   </tr>
 </table>
--->
+
 
 <!--
 - 🔭 I’m currently working on ...
