@@ -1,6 +1,6 @@
 # Olá, Robert falando!!
 
-**Email para contato:** robertvld.business@gmail.com
+**Email para contato:** robertvld.dev@gmail.com
 
 <!--
 ## Especializações:
@@ -15,13 +15,18 @@
     <td>Front-End</td>
     <td>HTML</td>
     <td>CSS</td>
-    <td>JS</td>
+    <td>JS | Angular</td>
   </tr>
   <tr>
     <td>Back-End</td>
     <td>PHP</td>
-    <td>SQL</td>
+    <td>Java | Spring/Springboot</td>
     <td>NODEjs</td>
+  </tr>
+<td>Banco de Dados</td>
+    <td>SQL</td>
+    <td>MySQL</td>
+    <td>Hibernate</td>
   </tr>
 </table>
 -->
